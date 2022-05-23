@@ -574,3 +574,12 @@ Data barang ID 1 sebelum diubah. <br>
 
 Data barang ID 1 setelah diubah. <br>
 ![Gambar 15](screenshot/15.PNG) <br>
+
+### 3. Uji Coba File Hapus php (Delete)
+Mencoba menghapus data barang dengan cara klik `hapus` pada kolom aksi data barang yang ingin dihapus. <br>
+Menghapus data barang dengan ID 5. <br>
+Data barang sebelum barang ID 5 dihapus. <br>
+![Gambar 16](screenshot/16.PNG) <br>
+
+Data barang setelah barang ID 5 dihapus. <br>
+![Gambar 17](screenshot/17.PNG) <br>
