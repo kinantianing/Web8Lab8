@@ -552,3 +552,18 @@ Buatlah file baru dengan nama `hapus.php`, lalu isi dengan sintaks seperti conto
 ?>
 ```
 <br>
+
+## C. Uji Coba Program
+### 1. Uji Coba File Tambah php (create)
+Mencoba menambahkan 2 data barang <br>
+Klik `Tambah Barang` pada halaman utama, maka akan muncul halaman tambah seperti dibawah ini : <br>
+Data barang baru pertama. <br>
+![Gambar 11](screenshot/11.PNG) <br>
+
+Data barang baru kedua. <br>
+![Gambar 12](screenshot/12.PNG) <br>
+
+Lalu input data yang akan telah ditambahkan akan tampil seperti dibawah ini : <br>
+![Gambar 13](screenshot/13.PNG) <br>
+
+### 2. Uji Coba File Ubah php (Update)
