@@ -567,3 +567,10 @@ Lalu input data yang akan telah ditambahkan akan tampil seperti dibawah ini : <b
 ![Gambar 13](screenshot/13.PNG) <br>
 
 ### 2. Uji Coba File Ubah php (Update)
+Mencoba mengubah/mengedit data barang dengan cara klik `Ubah` pada kolom aksi data barang yang ingin diubah. <br>
+Mengubah kategori, harga jual, harga beli dan stok pada data barang dengan ID 1. <br>
+Data barang ID 1 sebelum diubah. <br>
+![Gambar 14](screenshot/14.PNG) <br>
+
+Data barang ID 1 setelah diubah. <br>
+![Gambar 15](screenshot/15.PNG) <br>
