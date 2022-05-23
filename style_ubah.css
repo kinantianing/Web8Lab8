@@ -1,0 +1,73 @@
+.container {
+    margin: 30px 20px;
+    background-color: #f0f0f0;
+    font-family: "Times New Roman", Times, serif;
+    border-radius: 5px;
+}
+
+h1 {
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.main {
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+}
+
+.input {
+    padding-top: 20px;
+}
+
+.nama {
+    margin-left: 20px;
+}
+
+.kategori {
+    margin-left: 51px;
+}
+
+.harga_jual {
+    margin-left: 38px;
+}
+
+.harga_beli {
+    margin-left: 38px;
+}
+
+.stok {
+    margin-left: 76px;
+}
+
+.file {
+    margin-left: 25px;
+}
+
+.submit {
+    padding-top: 30px;
+}
+
+label {
+    padding: 8px 8px 8px 0;
+    display: inline-block;
+  }
+
+.button {
+    background-color: #5f9ea0;
+    border-radius: 5px;
+    color: black;
+    border: none;
+    padding: 13px 25px;
+    text-align: center;
+    font-size: 13px;
+    margin-left: 200px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button:hover {opacity: 1}
